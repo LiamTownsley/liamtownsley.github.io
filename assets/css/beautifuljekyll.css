@@ -866,6 +866,7 @@ pre {
   border: none;
   background: none;
   margin: 0;
+  color: white;
 }
 .highlight > pre {
   background-image: linear-gradient(
@@ -887,7 +888,7 @@ pre {
   margin: 0;
 }
 .highlight pre.lineno {
-  color: rgba(0,0,0,0.3);
+  color: white;
   border-radius: 0;
   border-right: 2px solid #444;
 }
