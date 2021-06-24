@@ -4,7 +4,7 @@ title: Portfolio - Embed Bot
 subtitle: This bot generates embeds in Discord whilst asking users questions, etc.
 cover-img: /assets/img/backdrops/discord.png
 thumbnail-img: /assets/img/thumbnails/thumb-embed-bot.png
-tags: [portfolio, discord, embed]
+tags: [portfolio]
 ---
 # Embed Bot
 This was a bot I created for a commission, the purpose of this bot is to generate embeds after asking the user a series of questions.
