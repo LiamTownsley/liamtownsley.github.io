@@ -4,7 +4,7 @@ title: About me
 subtitle: A little bit about who I am 😊
 cover-img: /assets/img/backdrops/1faf74c6c7b784d8867db984b46e1386.jpg
 ---
-Hi 👋, I'm Liam!{: .mx-auto.d-block :}
+# Hi 👋, I'm Liam!
 My name is Liam Townsley, as you can likely tell by the URL 😅.
 
 I am a Node.js Discord Bot Developer, here are some of my best qualities
