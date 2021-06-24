@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 readtime: true
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/backdrops/1faf74c6c7b784d8867db984b46e1386.jpg
 ---
 
 My name is Inigo Montoya. I have the following qualities:
