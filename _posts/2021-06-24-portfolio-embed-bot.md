@@ -6,3 +6,4 @@ cover-img: /assets/img/backdrops/discord.png
 thumbnail-img: /assets/img/thumbnails/thumb-embed-bot.png
 tags: [portfolio, discord, embed]
 ---
+Embed Bot <3
