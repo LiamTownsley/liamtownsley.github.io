@@ -21,6 +21,7 @@ Within this bot, there is a ticket system! So you can keep track of all of the o
 It's easy to rate one of their managers and give your honest opinion on it.
 
 ![https://i.imgur.com/MhHoW02.png](https://i.imgur.com/MhHoW02.png)
+
 ![https://i.imgur.com/VHpjN30.png](https://i.imgur.com/VHpjN30.png)
 
 # Help Command
