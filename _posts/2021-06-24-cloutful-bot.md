@@ -9,10 +9,12 @@ tags: [portfolio, discord, embed]
 
 # Profiles
 This Discord Bot has profiles, you can view each one of their manager's rating and their portfolio.
+
 ![https://i.imgur.com/3qEDfSf.png](https://i.imgur.com/3qEDfSf.png)
 
 # Ticket
 Within this bot, there is a ticket system! So you can keep track of all of the orders easily and answer any needed questions.
+
 ![https://i.imgur.com/csX9B0k.png](https://i.imgur.com/csX9B0k.png)
 
 # Ratings
