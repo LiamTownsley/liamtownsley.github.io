@@ -790,7 +790,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   color: {{ site.text-col | default: "#404040" }};
 }
 .page-link {
-  background-color: 
+  background-color: #232323!important;
 }
 @media (min-width: 768px) {
   .pagination .page-item .page-link {
