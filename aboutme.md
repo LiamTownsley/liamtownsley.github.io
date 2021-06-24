@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
-readtime: true
+subtitle: A little bit about who I am 😊
 cover-img: /assets/img/backdrops/1faf74c6c7b784d8867db984b46e1386.jpg
 ---
+Hi 👋, I'm Liam!{: .mx-auto.d-block :}
+My name is Liam Townsley, as you can likely tell by the URL 😅.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a Node.js Discord Bot Developer, here are some of my best qualities
+- 🔭 I’m currently working on **building my portfolio.**
+- 🌱 I’m currently re-learning **HTML, CSS, JavaScript to re-build my core knowledge to ensure I still understand everything.**
+- 👨‍💻 All of my projects are available at [https://github.com/LiamTownsley?tab=repositories](https://github.com/LiamTownsley?tab=repositories)
+- 📫 How to reach me **contact@liamtownsley.me**
