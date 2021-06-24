@@ -469,6 +469,7 @@ footer .footer-custom-content {
   font-style: italic;
   margin: 0 0 0.625rem;
   font-family: 'Lora', 'Times New Roman', serif;
+  background-color: rgba(0,0,0,0.4);
 }
 .post-heading .post-meta {
   display: inline-block;
@@ -481,6 +482,11 @@ footer .footer-custom-content {
 }
 .post-heading .post-meta .middot {
   margin: 0 0.625rem;
+}
+.post-heading {
+  background-color: rgba(0,0,0,0.4);
+  padding: 15px;
+  border-radius: 10px;
 }
 .post-preview .post-entry {
   width: 100%;
