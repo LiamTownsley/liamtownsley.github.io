@@ -15,11 +15,10 @@ author: Liam Townsley
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Links:
     - MC-Market Profile: "https://www.mc-market.org/members/51735/"
     - GitHub Profile: "https://github.com/LiamTownsley"
-    - My Discord: "https://discord.gg/3NYenFxgPM"
-  Author's home: "https://liamtownsley.me"
+  My Discord: "https://discord.gg/3NYenFxgPM"
 
 # --- Logo --- #
 
