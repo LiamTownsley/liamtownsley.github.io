@@ -4,7 +4,7 @@ title: Portfolio - Hypixel Cake Bot
 subtitle: This bot communicates with the Hypixel API to do different things with the Skyblock endpoint.
 cover-img: /assets/img/backdrops/discord.png
 thumbnail-img: /assets/img/thumbnails/hypixel.png
-tags: [portfolio, discord, embed]
+tags: [portfolio]
 ---
 # Hypixel Cake Bot
 This bot is used to find the best deal for Hypixel New Year Cake prices, average auction prices, etc.
