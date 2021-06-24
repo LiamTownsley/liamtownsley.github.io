@@ -28,3 +28,8 @@ After every successful commission, you would like your customers to leave a revi
 You can see every command that the bot has:
 
 ![https://i.imgur.com/hAkR3XK.png](https://i.imgur.com/hAkR3XK.png)
+
+# Profile
+Their freelancers now get profiles, where they can set their portfolio, see their total earnings, how many tickets they have completed, their average rating, etc.
+
+![https://i.imgur.com/WJg1Qvp.png](https://i.imgur.com/WJg1Qvp.png)
