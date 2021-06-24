@@ -7,4 +7,4 @@ thumbnail-img: /assets/img/thumbnails/thumb-embed-bot.png
 tags: [portfolio, discord, embed]
 ---
 Embed Bot <3
-1
+![https://i.imgur.com/PJ656Vs.gif](https://i.imgur.com/PJ656Vs.gif)
