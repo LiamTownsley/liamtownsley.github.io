@@ -3,7 +3,7 @@ layout: post
 title: Portfolio - Cloutful Bot
 subtitle: 
 cover-img: /assets/img/backdrops/discord.png
-thumbnail-img: /assets/img/thumbnails/thumb-embed-bot.png
+thumbnail-img: /assets/img/thumbnails/a01db0f18e546ece8f18de4db5c42af6.png
 tags: [portfolio]
 ---
 
